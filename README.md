@@ -148,6 +148,7 @@ This is a list of mods that are currently under evaluation to be added to the mo
 - [PlanBuild](https://thunderstore.io/c/valheim/p/MathiasDecrock/PlanBuild/)
 - [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/)
 - [LazyVikings](https://thunderstore.io/c/valheim/p/blacks7ar/LazyVikings/)
+- [ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/)
 
 ## License
 
