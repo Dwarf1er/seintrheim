@@ -29,6 +29,7 @@ Modpack for **Forsaken Seintred Realm**, our dedicated Valheim server. This repo
   * [World and UI](#world-and-ui)
 * [Changelog](#changelog)
 * [Maintaining this repo](#maintaining-this-repo)
+* [Mod Watchlist](#mod-watchlist)
 * [License](#license)
 
 <!-- mtoc-end -->
@@ -132,6 +133,20 @@ So the only thing an admin needs to do is `Push update` from Gale; the repo catc
 The two profile sync IDs it polls live in this repo's Settings > Secrets and variables > Actions > Variables, as `CLIENT_GALE_PROFILE_SYNC_ID` and `SERVER_GALE_PROFILE_SYNC_ID`. They're not secret; they only grant read access to the same manifest the sync code already shares.
 
 Config files (the actual BepInEx `.cfg`s) aren't part of this automation: profile sync bundles them, but this pipeline only reads the manifest metadata, not the files themselves, so `server/config/` still needs to be updated by hand when a config changes on the server.
+
+## Mod Watchlist
+
+This is a list of mods that are currently under evaluation to be added to the modlist:
+
+- [TeleportEverything](https://valheim.hexium.gg/mods/OdinPlus/TeleportEverything)
+- [Pathfinder](https://thunderstore.io/c/valheim/p/Crystal/Pathfinder/)
+- [SpeedyPaths](https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths/)
+- [No_Seasonal_Restrictions](https://thunderstore.io/c/valheim/p/VentureValheim/No_Seasonal_Restrictions/)
+- [SaveCrossbowState](https://valheim.hexium.gg/mods/Azumatt/SaveCrossbowState)
+- [PetPantry](https://valheim.hexium.gg/mods/Azumatt/PetPantry)
+- [PlanBuild](https://thunderstore.io/c/valheim/p/MathiasDecrock/PlanBuild/)
+- [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/)
+- [LazyVikings](https://thunderstore.io/c/valheim/p/blacks7ar/LazyVikings/)
 
 ## License
 
