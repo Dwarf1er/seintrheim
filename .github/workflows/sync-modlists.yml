@@ -1,0 +1,39 @@
+name: Sync mod lists from Gale profile sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync client modlist
+        run: .github/scripts/sync_modlist.sh "${{ vars.CLIENT_GALE_PROFILE_SYNC_ID }}" client/modlist.md
+
+      - name: Sync server modlist
+        run: .github/scripts/sync_modlist.sh "${{ vars.SERVER_GALE_PROFILE_SYNC_ID }}" server/modlist.md
+
+      - name: Update changelog
+        run: .github/scripts/update_changelog.sh
+
+      - name: Regenerate README
+        run: .github/scripts/update_readme.sh
+
+      - name: Commit and push if anything changed
+        run: |
+          if git diff --quiet -- client/modlist.md server/modlist.md README.md CHANGELOG.md; then
+            echo "No changes, nothing to push."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add client/modlist.md server/modlist.md README.md CHANGELOG.md
+          git commit -m "Sync mod lists from Gale profile sync"
+          git push

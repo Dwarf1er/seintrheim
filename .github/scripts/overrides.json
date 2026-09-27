@@ -1,0 +1,8 @@
+{
+  "JoelOliMclean/NoRainDamage": {
+    "description": "Stops rain from damaging unroofed wood/turf structures over time; configurable per building piece."
+  },
+  "TheOneHyer/FloorsAreRoofsContinued": {
+    "description": "Makes floor pieces (including Ashlands-tier ones) count as roofs, so buildings under them don't take rain damage."
+  }
+}
