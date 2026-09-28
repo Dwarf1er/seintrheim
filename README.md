@@ -101,7 +101,8 @@ Everything below is stuff the mods add that vanilla Valheim doesn't include. Con
 ### Farming
 
 - The cultivator can plant wild pickables now, not just normal crops: berry bushes, mushrooms, thistle, dandelion, saplings, and other decorative flora.
-- `Shift` + `E` while harvesting harvests every plant of that type in the area at once. `Shift` while planting places a 5x5 grid instead of one at a time, and you can bulk-harvest/auto-replant the same way.
+- `Shift` + `E` while harvesting does a mass harvest in the area around the player.
+- `Right Control` + `Up`/`Down`/`Left`/`Right` while planting lets you configure the size of the grid in which you wish to plant.
 - Seasonal decorations (holiday trees, gift boxes, etc.) are unlocked year-round instead of only during their real-world date window, so you're not stuck waiting for a specific week to use them.
 
 ### Traversal and combat
