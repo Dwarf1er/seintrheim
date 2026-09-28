@@ -82,6 +82,7 @@ Everything below is stuff the mods add that vanilla Valheim doesn't include. Con
 ### Inventory, storage, and looks
 
 - Press `.` next to any container to dump your whole inventory into it, for any item it already has a stack of.
+- Press `Y` when clicking on an item in your inventory to highlight the chest where the items are stored.
 - Drop items on the ground near a container that has an *incomplete* stack of that item and it'll get pulled in automatically after a few seconds.
 - Chests/Inventory also get quick-stack, restock, auto-sort, and trash-item buttons; look for them in the container's UI when it's open.
 - You get quick-action slots (default `Alt` + `Z` / `X` / `C` / `V` / `B` / `N` / `1` / `2`, up to 8 total) for things like swapping arrows or eating without opening your inventory. Adjust the keybinds under `F1`.
