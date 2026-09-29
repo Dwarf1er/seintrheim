@@ -37,7 +37,7 @@ Modpack for **Forsaken Seintred Realm**, our dedicated Valheim server. This repo
 ## Installing
 
 1. Install [Gale](https://gale.kesomannen.com/).
-2. Import the client profile via profile sync: `Import > profile from code`, code: `{$code}`.
+2. Import the client profile via profile sync: `Import > profile from code`, code: `8GWAV8`.
 3. Launch through Gale. Follow the connection instructions on our Discord channel.
 
 ## What's in the pack
