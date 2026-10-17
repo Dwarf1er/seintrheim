@@ -3,6 +3,50 @@
 All notable changes to the Seintrheim modpack, for both the client and server profiles. Entries below are added automatically by the sync workflow; see [Maintaining this repo](README.md#maintaining-this-repo).
 
 <!-- changelog:start -->
+## 2026-10-17
+
+### Client
+
+- Added `Advize-PlantEasily-2.3.0`
+- Added `Azumatt-AAA_Crafting-2.1.11`
+- Added `Azumatt-AzuAutoStore-3.1.7`
+- Added `Azumatt-AzuCraftyBoxes-1.8.28`
+- Added `Azumatt-AzuExtendedPlayerInventory-2.6.3`
+- Added `FlorpyDorp-NoCheatedTag-1.0.1`
+- Added `Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.16`
+- Added `OdinPlus-TeleportBoats-0.1.3`
+- Added `RustyMods-Seasonality-3.8.4`
+- Added `shudnal-ConditionalConfigSync-1.0.11`
+- Added `shudnal-MyLittleUI-1.2.31`
+- Removed `Advize-PlantEasily-2.2.2`
+- Removed `Azumatt-AAA_Crafting-2.1.10`
+- Removed `Azumatt-AzuAutoStore-3.1.6`
+- Removed `Azumatt-AzuCraftyBoxes-1.8.26`
+- Removed `Azumatt-AzuExtendedPlayerInventory-2.6.1`
+- Removed `Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15`
+- Removed `RustyMods-Seasonality-3.8.3`
+- Removed `shudnal-ConditionalConfigSync-1.0.9`
+- Removed `shudnal-MyLittleUI-1.2.26`
+
+### Server
+
+- Added `Azumatt-AAA_Crafting-2.1.11`
+- Added `Azumatt-AzuAutoStore-3.1.7`
+- Added `Azumatt-AzuCraftyBoxes-1.8.28`
+- Added `Azumatt-AzuExtendedPlayerInventory-2.6.3`
+- Added `FlorpyDorp-NoCheatedTag-1.0.1`
+- Added `Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.16`
+- Added `RustyMods-Seasonality-3.8.4`
+- Added `shudnal-ConditionalConfigSync-1.0.11`
+- Added `shudnal-MyLittleUI-1.2.31`
+- Removed `Azumatt-AAA_Crafting-2.1.10`
+- Removed `Azumatt-AzuAutoStore-3.1.6`
+- Removed `Azumatt-AzuCraftyBoxes-1.8.26`
+- Removed `Azumatt-AzuExtendedPlayerInventory-2.6.1`
+- Removed `Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15`
+- Removed `RustyMods-Seasonality-3.8.3`
+- Removed `shudnal-ConditionalConfigSync-1.0.9`
+- Removed `shudnal-MyLittleUI-1.2.26`
 ## 2026-09-30
 
 ### Client
