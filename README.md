@@ -125,7 +125,7 @@ See [`CHANGELOG.md`](CHANGELOG.md) for version history.
 
 This repo updates itself. `.github/workflows/sync-modlists.yml` runs daily as a safety net, and on-demand from the Actions tab (`Run workflow`) whenever you want it sooner:
 
-1. Pulls the client and server profiles' current manifests from Gale's [profile sync](https://github.com/Kesomannen/gale-sync) API (reading a manifest needs no login) and rewrites `client/modlist.md`/`server/modlist.md` if either changed.
+1. Pulls the client and server profiles' current manifests from Gale's [profile sync](https://github.com/Kesomannen/gale-sync) API (reading a manifest needs no login) and rewrites `client/modlist.md`/`server/modlist.md` if either changed. It also downloads the server profile's zip and mirrors its `BepInEx/config` files into `server/config/` via `.github/scripts/sync_config.sh`.
 2. Adds a dated entry to `CHANGELOG.md` listing whatever mods got added/removed, per side, via `.github/scripts/update_changelog.sh`. It's a no-op if neither modlist actually changed.
 3. Regenerates the table above from those files via `.github/scripts/update_readme.sh`: link, side, category, and description all come from the Hexium/Thunderstore package API. `.github/scripts/overrides.json` (keyed `"Namespace/Name"`) patches over any mod whose upstream description is bad or misleading.
 4. Commits and pushes straight to `master`, only if something actually changed.
@@ -134,7 +134,7 @@ So the only thing an admin needs to do is `Push update` from Gale; the repo catc
 
 The two profile sync IDs it polls live in this repo's Settings > Secrets and variables > Actions > Variables, as `CLIENT_GALE_PROFILE_SYNC_ID` and `SERVER_GALE_PROFILE_SYNC_ID`. They're not secret; they only grant read access to the same manifest the sync code already shares.
 
-Config files (the actual BepInEx `.cfg`s) aren't part of this automation: profile sync bundles them, but this pipeline only reads the manifest metadata, not the files themselves, so `server/config/` still needs to be updated by hand when a config changes on the server.
+`server/config/` is a mirror of the server profile's `BepInEx/config`, so don't edit it by hand; change the config in Gale and push the profile. Per-player `.dat` files are skipped. Client configs aren't synced.
 
 ## Mod Watchlist
 
