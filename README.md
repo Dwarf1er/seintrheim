@@ -150,6 +150,7 @@ This is a list of mods that are currently under evaluation to be added to the mo
 - [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/)
 - [LazyVikings](https://thunderstore.io/c/valheim/p/blacks7ar/LazyVikings/)
 - [ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/)
+- [BottleShips](https://valheim.hexium.gg/mods/sighsorry/BottleShips)
 
 ## License
 
