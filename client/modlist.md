@@ -1,10 +1,10 @@
 Advize-PlantEasily-2.3.0
-Advize-PlantEverything-1.21.3
+Advize-PlantEverything-1.21.4
 Azumatt-AAA_Crafting-2.1.11
 Azumatt-AzuAreaRepair-1.1.8
 Azumatt-AzuAutoStore-3.1.7
 Azumatt-AzuCraftyBoxes-1.8.28
-Azumatt-AzuExtendedPlayerInventory-2.6.3
+Azumatt-AzuExtendedPlayerInventory-2.6.4
 Azumatt-Official_BepInEx_ConfigurationManager-19.0.0
 Azumatt-Unshamed-1.0.8
 FlorpyDorp-NoCheatedTag-1.0.1

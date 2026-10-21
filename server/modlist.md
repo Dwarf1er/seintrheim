@@ -1,9 +1,9 @@
-Advize-PlantEverything-1.21.3
+Advize-PlantEverything-1.21.4
 Azumatt-AAA_Crafting-2.1.11
 Azumatt-AzuAreaRepair-1.1.8
 Azumatt-AzuAutoStore-3.1.7
 Azumatt-AzuCraftyBoxes-1.8.28
-Azumatt-AzuExtendedPlayerInventory-2.6.3
+Azumatt-AzuExtendedPlayerInventory-2.6.4
 FlorpyDorp-NoCheatedTag-1.0.1
 Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.16
 Marf-FuelEternal-1.2.1

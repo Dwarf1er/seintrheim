@@ -177,7 +177,7 @@
 [Success]: Registered: Vines_Mat@fall.png
 [Success]: Registered: Vines_Mat@winter.png
 [Success]: Registered: yggdrasil_root#EmissiveTex@fall.png
-[Debug]: Reading textures took: 17ms
+[Debug]: Reading textures took: 27ms
 [Debug]: Seasonal Timer Awake
 [Success]: Registered textures to: greydwarf
 [Success]: Registered moss material: runestone
@@ -853,7 +853,7 @@
 [Success]: Registered moss material: VinesBranch_mat
 [Success]: Registered moss material: Banner_2_RedBlueWhiteStripe_mat
 [Success]: Registered piece material: stonefloor
-[Debug]: [FejdStartup Awake] Generation textures time: 140ms
+[Debug]: [FejdStartup Awake] Generation textures time: 144ms
 [Debug]: [FejdStartup Awake]: Registered 674 new materials
 [Success]: Registered textures to: grasscross_mistlands_short
 [Success]: Registered textures to: yggdrasil_branch_leafs
@@ -862,14 +862,14 @@
 [Success]: Registered moss material: acacia_leaves01.mat
 [Success]: Registered moss material: acacia_trunk01
 [Success]: Registered moss material: Hangvine
-[Debug]: [ZNetScene Awake] Generation textures time: 20ms
+[Debug]: [ZNetScene Awake] Generation textures time: 21ms
 [Debug]: [ZNetScene Awake]: Registered 7 new materials
 [Debug]: [ZoneSystem SetupLocations] Generation textures time: 2ms
 [Debug]: [ZoneSystem SetupLocations]: Registered 0 new materials
 [Debug]: Registering version RPC handler
 [Info]: Invoking version check
 [Debug]: ZNet.Start
-[Info]: Version check, local: 3.8.3,  remote: 3.8.3
+[Info]: Version check, local: 3.8.4,  remote: 3.8.4
 [Info]: Received same version from server!
 [Debug]: Server-controlled seasons enabled - this client will receive season updates from the server
 [Success]: Registered moss material: runestone

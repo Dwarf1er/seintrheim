@@ -3,6 +3,21 @@
 All notable changes to the Seintrheim modpack, for both the client and server profiles. Entries below are added automatically by the sync workflow; see [Maintaining this repo](README.md#maintaining-this-repo).
 
 <!-- changelog:start -->
+## 2026-10-21
+
+### Client
+
+- Added `Advize-PlantEverything-1.21.4`
+- Added `Azumatt-AzuExtendedPlayerInventory-2.6.4`
+- Removed `Advize-PlantEverything-1.21.3`
+- Removed `Azumatt-AzuExtendedPlayerInventory-2.6.3`
+
+### Server
+
+- Added `Advize-PlantEverything-1.21.4`
+- Added `Azumatt-AzuExtendedPlayerInventory-2.6.4`
+- Removed `Advize-PlantEverything-1.21.3`
+- Removed `Azumatt-AzuExtendedPlayerInventory-2.6.3`
 ## 2026-10-17
 
 ### Client
