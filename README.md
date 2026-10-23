@@ -146,11 +146,10 @@ This is a list of mods that are currently under evaluation to be added to the mo
 - [No_Seasonal_Restrictions](https://thunderstore.io/c/valheim/p/VentureValheim/No_Seasonal_Restrictions/)
 - [SaveCrossbowState](https://valheim.hexium.gg/mods/Azumatt/SaveCrossbowState)
 - [PetPantry](https://valheim.hexium.gg/mods/Azumatt/PetPantry)
-- [PlanBuild](https://thunderstore.io/c/valheim/p/MathiasDecrock/PlanBuild/)
-- [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/)
 - [LazyVikings](https://thunderstore.io/c/valheim/p/blacks7ar/LazyVikings/)
-- [ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/)
+- [ProcreationPlus](https://thunderstore.io/c/valheim/p/MaxFoxGaming/Procreation_Plus/)
 - [BottleShips](https://valheim.hexium.gg/mods/sighsorry/BottleShips)
+- [ComfyAutoRepair](https://thunderstore.io/c/valheim/p/ComfyMods/ComfyAutoRepair/)
 
 ## License
 
