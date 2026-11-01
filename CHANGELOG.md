@@ -3,6 +3,37 @@
 All notable changes to the Seintrheim modpack, for both the client and server profiles. Entries below are added automatically by the sync workflow; see [Maintaining this repo](README.md#maintaining-this-repo).
 
 <!-- changelog:start -->
+## 2026-11-01
+
+### Client
+
+- Added `Advize-PlantEasily-2.3.1`
+- Added `Azumatt-AAA_Crafting-2.1.12`
+- Added `Azumatt-AzuExtendedPlayerInventory-2.6.6`
+- Added `Azumatt-Unshamed-1.0.9`
+- Added `RustyMods-Seasonality-3.8.6`
+- Added `denikson-BepInExPack_Valheim-5.4.2360`
+- Added `shudnal-MyLittleUI-1.2.33`
+- Removed `Advize-PlantEasily-2.3.0`
+- Removed `Azumatt-AAA_Crafting-2.1.11`
+- Removed `Azumatt-AzuExtendedPlayerInventory-2.6.4`
+- Removed `Azumatt-Unshamed-1.0.8`
+- Removed `RustyMods-Seasonality-3.8.4`
+- Removed `denikson-BepInExPack_Valheim-5.4.2351`
+- Removed `shudnal-MyLittleUI-1.2.31`
+
+### Server
+
+- Added `Azumatt-AAA_Crafting-2.1.12`
+- Added `Azumatt-AzuExtendedPlayerInventory-2.6.6`
+- Added `RustyMods-Seasonality-3.8.6`
+- Added `denikson-BepInExPack_Valheim-5.4.2360`
+- Added `shudnal-MyLittleUI-1.2.33`
+- Removed `Azumatt-AAA_Crafting-2.1.11`
+- Removed `Azumatt-AzuExtendedPlayerInventory-2.6.4`
+- Removed `RustyMods-Seasonality-3.8.4`
+- Removed `denikson-BepInExPack_Valheim-5.4.2351`
+- Removed `shudnal-MyLittleUI-1.2.31`
 ## 2026-10-21
 
 ### Client
