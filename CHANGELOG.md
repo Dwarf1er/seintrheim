@@ -3,6 +3,21 @@
 All notable changes to the Seintrheim modpack, for both the client and server profiles. Entries below are added automatically by the sync workflow; see [Maintaining this repo](README.md#maintaining-this-repo).
 
 <!-- changelog:start -->
+## 2026-11-08
+
+### Client
+
+- Added `RustyMods-Seasonality-3.8.7`
+- Added `shudnal-MyLittleUI-1.2.34`
+- Removed `RustyMods-Seasonality-3.8.6`
+- Removed `shudnal-MyLittleUI-1.2.33`
+
+### Server
+
+- Added `RustyMods-Seasonality-3.8.7`
+- Added `shudnal-MyLittleUI-1.2.34`
+- Removed `RustyMods-Seasonality-3.8.6`
+- Removed `shudnal-MyLittleUI-1.2.33`
 ## 2026-11-01
 
 ### Client

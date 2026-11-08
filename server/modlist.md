@@ -7,7 +7,7 @@ Azumatt-AzuExtendedPlayerInventory-2.6.6
 FlorpyDorp-NoCheatedTag-1.0.1
 Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.16
 Marf-FuelEternal-1.2.1
-RustyMods-Seasonality-3.8.6
+RustyMods-Seasonality-3.8.7
 TheOneHyer-FloorsAreRoofsContinued-2.0.5
 ValheimModding-Jotunn-2.30.2
 ValheimModding-YamlDotNet-16.3.1
@@ -15,5 +15,5 @@ blacks7ar-VikingsDoSwim-1.4.2
 blacks7ar-WieldEquipmentWhileSwimming-1.1.4
 denikson-BepInExPack_Valheim-5.4.2360
 shudnal-ConditionalConfigSync-1.0.11
-shudnal-MyLittleUI-1.2.33
+shudnal-MyLittleUI-1.2.34
 turbero-ForsakenPowersPlusRemastered-2.0.4
